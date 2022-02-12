@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<equipo>
+	<pc id="1">
+		<mainserver>Equipo05</mainserver>
+		<shortname>1</shortname>
+		<name>HP 6000 Pro MFP</name>		
+	</pc>	
+</equipo>
+<!-- colocar este archivo en el directorio dist -->
+<!-- id: es de acuerdo a la base de datos -->
+<!-- shortname: es el numero que aparecera en la pantalla de bloqueo -->

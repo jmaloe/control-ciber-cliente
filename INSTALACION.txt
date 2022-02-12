@@ -1,0 +1,9 @@
+-------------****------------
+Copiar en la carpeta dist el archivo config.xml, leer las indicaciones en config.xml
+-------------****-------------
+para que los equipos puedan conectarse remotamente:
+deshabilitar el firewall en la red privada o,
+
+configurar regla de entrada en el firewall permitiendo las conexiones en el puerto 80
+
+NOTA: para probar el jar ejecutarlo directamente desde una terminal cmd
